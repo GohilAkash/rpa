@@ -1,0 +1,18 @@
+*scapping*
+create web scraping automation to scrap text from provided url and writes in output
+
+*data*
+Create a new sequence in UiPath. Add three variables: 
+- name (String) = "Akash"
+- age (Int32) = 22
+- isStudent (Boolean) = True
+
+Use three Write Line activities to display each variable in the format: 
+"Name: Akash", "Age: 22", "Student: True".
+
+*string*
+Create a new sequence. Add a List of Strings variable named fruits with values {"Apple", "Banana", "Cherry"}.
+Use a For Each activity to iterate over the list and display each fruit using message box
+
+*excel*
+create sheet in google sheets write dummy data in it and print that using write line
